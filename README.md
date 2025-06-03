@@ -28,4 +28,12 @@ Dsa based question solved
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhilashgupta1111/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhilashgupta1111/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhilashgupta1111/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
